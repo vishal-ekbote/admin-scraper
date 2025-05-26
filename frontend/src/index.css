@@ -1,0 +1,14 @@
+/* frontend/src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom overrides (after Tailwind) */
+.btn-success {
+  background-color: #198754 !important;
+  color: #fff !important;
+}
+.btn-danger {
+  background-color: #dc3545 !important;
+  color: #fff !important;
+}
