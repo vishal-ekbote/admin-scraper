@@ -95,7 +95,7 @@ admin-scraper/
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/vishal-ekbote/admin-scraper.git]
+    git clone https://github.com/vishal-ekbote/admin-scraper.git
     cd admin-scraper
     ```
 
