@@ -57,6 +57,7 @@ For `quotes.toscrape.com` selectors are:
 ---
 
 ## Project Structure
+```text
 admin-scraper/
 ├── functions/              # Firebase Functions (backend scraper API)
 │   ├── node_modules/
@@ -81,6 +82,7 @@ admin-scraper/
 ├── firestore.indexes.json  # Firestore indexes
 ├── firestore.rules         # Firestore security rules
 └── README.md               # This file
+```
 
 ---
 
@@ -93,7 +95,7 @@ admin-scraper/
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [GitHub Repository URL Here]
+    git clone [https://github.com/vishal-ekbote/admin-scraper.git]
     cd admin-scraper
     ```
 
